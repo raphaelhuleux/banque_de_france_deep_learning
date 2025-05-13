@@ -1,0 +1,50 @@
+[
+    {
+        "timestamp": "2025-05-13 13:30:40",
+        "terminate": true
+    },
+    {
+        "timestamp": "2025-05-13 13:34:59",
+        "terminate": false
+    },
+    {
+        "timestamp": "2025-05-13 13:40:41",
+        "terminate": true
+    },
+    {
+        "timestamp": "2025-05-13 13:47:32",
+        "terminate": false
+    },
+    {
+        "timestamp": "2025-05-13 13:51:13",
+        "terminate": false
+    },
+    {
+        "timestamp": "2025-05-13 14:07:28",
+        "terminate": false
+    },
+    {
+        "timestamp": "2025-05-13 14:07:47",
+        "terminate": false
+    },
+    {
+        "timestamp": "2025-05-13 14:07:56",
+        "terminate": false
+    },
+    {
+        "timestamp": "2025-05-13 14:09:36",
+        "terminate": false
+    },
+    {
+        "timestamp": "2025-05-13 14:11:38",
+        "terminate": false
+    },
+    {
+        "timestamp": "2025-05-13 14:12:57",
+        "terminate": false
+    },
+    {
+        "timestamp": "2025-05-13 14:13:57",
+        "terminate": false
+    }
+]
