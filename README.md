@@ -4,7 +4,7 @@ This repository shows how to solve a simple buffer-stock model using deep-learni
 
 To run the notebooks,  you need to install the following packages:
 
-- `torch`
+- `torch` (informations [here](https://github.com/pytorch/pytorch))
 - `EconModel` (informations [here](https://github.com/NumEconCopenhagen/EconModel))
 - `Consav` (informations [here](https://github.com/NumEconCopenhagen/ConsumptionSaving))
 - `EconDLSolvers` (informations [here](https://github.com/NumEconCopenhagen/EconDLSolvers))
